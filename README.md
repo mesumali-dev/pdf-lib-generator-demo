@@ -1,16 +1,13 @@
 ## PDF-Lib Learning Roadmap (Beginner → Advanced)
 
-1. Basics / Introduction
+#### 1. Basics / Introduction
 
-Pdf-lib kya hai aur kyun use hota hai
+* Pdf-lib kya hai aur kyun use hota hai
+* Project setup (Next.js + pdf-lib)
+* Basic PDF create karna
+* PDF save/export karna
 
-Project setup (Next.js + pdf-lib)
-
-Basic PDF create karna
-
-PDF save/export karna
-
-2. Text Manipulation
+#### 2. Text Manipulation
 
 Simple text add karna
 
