@@ -61,3 +61,12 @@
 - Iska use mostly web apps (Next.js, React, Node.js) mein hota hai.
 - Features:
     - PDF create karna from scratch
+    - Existing PDF edit karna
+    - Text, images, shapes, tables, forms add karna
+    - Download / save karna browser aur server dono mein
+
+##### Example use cases:
+
+- Invoice generate karna
+- Reports create karna
+- Certificates / tickets generate karna
