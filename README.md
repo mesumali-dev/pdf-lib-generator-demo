@@ -172,3 +172,20 @@ page.drawText('Hello PDF-Lib!', { x: 50, y: 350 });
 - `x` aur `y` → position (bottom-left corner se)
 - `size` → font size (default 12)
 - `color` → rgb color `{r,g,b}` 0–1 scale
+
+#### 2.2 Font Set Karna
+
+**Standard fonts** available hain pdf-lib mein:
+```typescript
+import { StandardFonts } from 'pdf-lib';
+
+const timesRomanFont = await pdfDoc.embedFont(StandardFonts.TimesRoman);
+page.drawText('Custom Font Text', { x: 50, y: 300, font: timesRomanFont, size: 24 });
+```
+- **Available Standard Fonts:**
+    - TimesRoman
+    - Helvetica
+    - Courier
+    - Symbol
+    - ZapfDingbats
+**Custom Fonts** bhi embed kar sakte ho (TTF/OTF):
