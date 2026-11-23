@@ -25,4 +25,4 @@ cd pdf-lib-generator-demo
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
